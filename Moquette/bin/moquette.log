@@ -1,0 +1,5 @@
+0    [main] INFO  Server  - Persistent store file: /Users/denys/Dropbox/mqtt/bin/moquette_store.mapdb
+52   [main] INFO  MapDBPersistentStore  - Starting with fresh [/Users/denys/Dropbox/mqtt/bin/moquette_store.mapdb] db file
+496  [main] INFO  FileAuthenticator  - Loading password file: /Users/denys/Dropbox/mqtt/config/password_file.conf
+1089 [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 1883
+1099 [main] INFO  NettyAcceptor  - Server binded host: 0.0.0.0, port: 8080
